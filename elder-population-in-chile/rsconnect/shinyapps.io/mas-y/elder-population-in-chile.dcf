@@ -1,8 +1,8 @@
 name: elder-population-in-chile
 account: mas-y
 server: shinyapps.io
-bundleId: 250677
-url: https://mas-y.shinyapps.io/elder-population-in-chile
+bundleId: 104469
+url:  https://mas-y.shinyapps.io/elder-population-in-chile
 when: 1440382542.39528
 asMultiple: FALSE
 asStatic: FALSE
